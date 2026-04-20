@@ -1,6 +1,6 @@
 ### 👋 你好，我是徐丽媛！
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=435&lines=嵌入式软件工程师;C+Linux+开发者;正在合肥寻找C开发岗位)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=480&lines=嵌入式软件工程师;C+Linux+开发者;正在合肥/南京寻找C开发岗位)](https://git.io/typing-svg)
 
 ### 🛠️ 技术栈
 
